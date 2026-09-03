@@ -1,7 +1,7 @@
 import os
 import ollama
 
-MODEL_NAME = "gemma2"  # Локальная модель в Ollama
+MODEL_NAME = "gemma4:e4b-it-q4_K_M"  # Локальная модель в Ollama
 
 def read_markdown_prompt(file_path):
     """Считывает инструкции из md-файлов"""
