@@ -29,7 +29,7 @@
 
 bash
 
-ollama run gemma2
+ollama run gemma4:e4b-it-q4_K_M
 
 Use code with caution.
 
@@ -40,8 +40,8 @@ Use code with caution.
 bash
 
 # Клонируйте репозиторий
-git clone https://github.com/YOUR_USERNAME/lindy-stratagem-simulator.git
-cd lindy-stratagem-simulator
+git clone git@github.com:pwrmind/negotiation_simulator.git
+cd negotiation_simulator
 
 # Инициализируйте окружение и установите зависимости через uv
 uv venv
