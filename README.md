@@ -29,7 +29,7 @@
 
 bash
 
-ollama run gemma2
+ollama run gemma4:e4b-it-q4_K_M
 
 Use code with caution.
 
